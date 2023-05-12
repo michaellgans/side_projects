@@ -5,16 +5,16 @@ Race: Tiefling
 Alignment: N.E.
 ---------------------------------------------------------------------
 **Base Stats**		|PB: +2			|Languages:
-10 Strength		|AC: 16			|Common
-16 Dexterity		|Speed:	30		|Infernal
-12 Constitution		|HP: 31		   	|
-13 Intelligence		|--------------------------------------------
-14 Wisdom		|Attacks and Spellcasting:			
-14 Charisma		|Tonfas: +8 to hit, 1D6? +6 slashing
-------------------------|Longbow: +8 to hit, 1D8 +6 piercing
-**Saving Throws**	|Unarmed: +8 to hit, 1D4 +6 bludgening 
+10 +0 Strength		|AC: 15			|Common
+16 +3 Dexterity		|Speed:	30		|Infernal
+12 +1 Constitution	|HP: 31		   	|
+13 +1 Intelligence	|--------------------------------------------
+14 +2 Wisdom		|Attacks and Spellcasting:			
+14 +2 Charisma		|Tonfas: +5 to hit, 1D6? +3 slashing
+------------------------|Longbow: +5 to hit, 1D8 +3 piercing
+**Saving Throws**	|Unarmed: +5 to hit, 1D4 +3 bludgening 
 +2 Strength		|
-+6 Dexterity		|
++5 Dexterity		|
 +1 Constitution		|
 +1 Intelligence		|
 +2 Wisdom		|
@@ -24,9 +24,9 @@ Alignment: N.E.
 Strength			Wisdom
 X +2 - Athletics		O +2 - Animal Handling
 Dexterity			O +2 - Insight
-X +6 - Acrobatics		O +2 - Medicine
-X +6 - Sleight of Hand		O +2 - Perception
-X +6 - Stealth			O +2 - Survival
+X +5 - Acrobatics		O +2 - Medicine
+X +5 - Sleight of Hand		O +2 - Perception
+X +5 - Stealth			O +2 - Survival
 Intelligence			
 O +1 - Arcana			Charisma
 O +1 - History			O +2 - Deception	
