@@ -1,6 +1,4 @@
-<div align="center">
-  <img src=https://github.com/michaellgans/side_projects/assets/131380667/96be2ff9-ba5b-4fd6-9f5a-2c9d5d601ebf alt="garland">
-</div>
+<img src=https://github.com/michaellgans/side_projects/assets/131380667/96be2ff9-ba5b-4fd6-9f5a-2c9d5d601ebf alt="garland" width="100%">
 
 <div align="center">
   <h3>
