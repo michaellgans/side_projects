@@ -1,4 +1,15 @@
-# HAPPY HOLIDAYS!!
+<div align="center">
+  <img src=https://github.com/michaellgans/side_projects/assets/131380667/96be2ff9-ba5b-4fd6-9f5a-2c9d5d601ebf alt="garland">
+</div>
+
+<div align="center">
+  <h3>
+  🎄I made this little program for fun and for holiday spirit!🎄 <br>
+  🎄It's in a virtual environment so that you don't have to download a bunch of stuff.🎄 <br>
+  🎄It will play a short 1 minute MP3 and give you a Christmas Countdown!  Enjoy!!🎄
+  </h3>
+</div>
+<br>
 
 ## To use, please activate the virtual environment!
 
